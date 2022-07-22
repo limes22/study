@@ -1,7 +1,7 @@
 # study
-### [-ServiceAccount와 RBAC]
 
 ● Kubernetes
+### [-ServiceAccount와 RBAC] (https://github.com/limes22/study/blob/main/K8S/ServiceAccount%EC%99%80%20RBAC.pdf)
 ### [●Prometheus](https://github.com/limes22/study/blob/main/prometheus/prometheus.pdf)
 
 ● Typescript
