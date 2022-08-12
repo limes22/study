@@ -3,6 +3,7 @@
 ### [● Kubernetes](https://github.com/limes22/study/blob/main/K8S/kubernetes.pdf)
 
 ### [-ServiceAccount와 RBAC](https://github.com/limes22/study/blob/main/K8S/ServiceAccount%EC%99%80%20RBAC.pdf)
+### [-operator-sdk](https://github.com/limes22/study/blob/main/K8S/operator-sdk.pdf)
 
 ### [●Prometheus](https://github.com/limes22/study/blob/main/prometheus/prometheus.pdf)
 
