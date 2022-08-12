@@ -1,11 +1,9 @@
 # study
 
 ### [● Kubernetes](https://github.com/limes22/study/blob/main/K8S/kubernetes.pdf)
-
-### [-ServiceAccount와 RBAC](https://github.com/limes22/study/blob/main/K8S/ServiceAccount%EC%99%80%20RBAC.pdf)
 ### [-operator-sdk](https://github.com/limes22/study/blob/main/K8S/operator-sdk.pdf)
 
-### [●Prometheus](https://github.com/limes22/study/blob/main/prometheus/prometheus.pdf)
+### [●Prometheus](https://github.com/limes22/study/blob/main/Prometheus/Prometheus%20%EC%A0%95%EB%A6%AC.pdf)
 
 ● Typescript
 ### [-type_interface](https://github.com/limes22/study/blob/main/typescript/type_interface.pdf)
@@ -16,4 +14,4 @@
 ### [-useState](https://github.com/limes22/study/blob/main/React/React.useState.pdf)
 ### [-export default vs export](https://github.com/limes22/study/blob/main/React/Export%20%EC%99%80%20Export%20default%20%EC%B0%A8%EC%9D%B4.pdf)
 ### [●RestAPI](https://github.com/limes22/study/blob/main/RestAPI/REST%20API.pdf)
-### [-비동기프로그래밍](https://github.com/limes22/study/blob/main/RestAPI/비동기프로그래밍.pdf)
+
