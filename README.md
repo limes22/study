@@ -7,6 +7,7 @@
 + UDP
 + 대칭키 & 공개키
 + HTTP & HTTPS
++ Blocking/Non-blocking & Synchronous/Asynchronous
 
 ## kubernetes
 + kubernetes 
