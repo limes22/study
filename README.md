@@ -1,6 +1,5 @@
 # Study Document
-https://agilemanifesto.org/iso/ko/manifesto.html![image](https://user-images.githubusercontent.com/102801493/185784897-5ea73de4-c037-43b7-a4f0-2a76d2963fd5.png)
-
+https://agilemanifesto.org/iso/ko/manifesto.html
 
 ## kubernetes
 + kubernetes 
