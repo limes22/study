@@ -3,7 +3,7 @@
 https://agilemanifesto.org/iso/ko/manifesto.html
 
 ## kubernetes
-+ [kubernetes](#/Kubernetes/kubernetes%20란.pdf)
++ [kubernetes](/Kubernetes/kubernetes%20란.pdf](https://github.com/limes22/study/blob/main/Kubernetes/kubernetes%20%EB%9E%80.pdf)
 + Architecture
 + Resources
 + PV & PVC
