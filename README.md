@@ -11,6 +11,12 @@ https://agilemanifesto.org/iso/ko/manifesto.html
 + [Prometheus](https://github.com/limes22/study/blob/main/Kubernetes/Prometheus%20%EC%A0%95%EB%A6%AC.pdf)
 
 
+## CICD
++ Helm
++ Ansible
++ Argo-CD
+
+
 ## React
 + [React](https://github.com/limes22/study/blob/main/React/React%20%EB%9E%80.pdf)
 + [React Hooks](https://github.com/limes22/study/blob/main/React/React%20Hooks.pdf)
