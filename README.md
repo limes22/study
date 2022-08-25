@@ -12,9 +12,9 @@ https://agilemanifesto.org/iso/ko/manifesto.html
 
 
 ## CICD
-+ Helm
-+ Ansible
-+ Argo-CD
++ [Helm](https://github.com/limes22/study/blob/main/CICD/helm.pdf)
++ [Ansible](https://github.com/limes22/study/blob/main/CICD/Ansible.pdf)
++ [Argo-CD](https://github.com/limes22/study/blob/main/CICD/ArgoCD.pdf)
 
 
 ## React
