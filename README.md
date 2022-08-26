@@ -22,6 +22,19 @@ https://agilemanifesto.org/iso/ko/manifesto.html
 + [React Hooks](https://github.com/limes22/study/blob/main/React/React%20Hooks.pdf)
 
 
+## Data Structure
++ [Array](https://github.com/limes22/study/blob/main/DataStructure/Array.pdf)
++ LinkedList
++ Array & ArrayList & LinkedList
++ 스택(Stack) & 큐 (Queue)
++ 힙 (Heap)
++ 트리 (Tree)
++ 이진탐색트리 (Binary Search Tree)
++ 해쉬 (Hash)
++ 트라이 (Trie)
++ B-Tree & B+Tree
+
+
 ## Network
 + [OSI 7 계층](https://github.com/limes22/study/blob/main/Network/OSI%207%20Layers.pdf)
 + [TCP 3 way handshake & 4 way handshake](https://github.com/limes22/study/blob/main/Network/TCP.pdf)
