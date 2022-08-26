@@ -24,7 +24,7 @@ https://agilemanifesto.org/iso/ko/manifesto.html
 
 ## Data Structure
 + [Array](https://github.com/limes22/study/blob/main/DataStructure/Array.pdf)
-+ LinkedList
++ [LinkedList](https://github.com/limes22/study/blob/main/DataStructure/Linked%20List.pdf)
 + Array & ArrayList & LinkedList
 + 스택(Stack) & 큐 (Queue)
 + 힙 (Heap)
