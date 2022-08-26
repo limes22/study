@@ -25,7 +25,7 @@ https://agilemanifesto.org/iso/ko/manifesto.html
 ## Data Structure
 + [Array](https://github.com/limes22/study/blob/main/DataStructure/Array.pdf)
 + [LinkedList](https://github.com/limes22/study/blob/main/DataStructure/Linked%20List.pdf)
-+ 스택(Stack) & 큐 (Queue)
++ [스택(Stack) & 큐 (Queue)](https://github.com/limes22/study/blob/main/DataStructure/Stack%20%26%20Queue.pdf)
 + 힙 (Heap)
 + 트리 (Tree)
 + 이진탐색트리 (Binary Search Tree)
