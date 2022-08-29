@@ -9,6 +9,7 @@ https://agilemanifesto.org/iso/ko/manifesto.html
 + [PV & PVC](https://github.com/limes22/study/blob/main/Kubernetes/kubernetes%20pv%2C%20pvc.pdf)
 + [Custom Controller Operator Pattern(Operater-SDK)](https://github.com/limes22/study/blob/main/Kubernetes/Custom%20Controller%20Operator%20Pattern(Operater-SDK).pdf)
 + [Prometheus](https://github.com/limes22/study/blob/main/Kubernetes/Prometheus%20%EC%A0%95%EB%A6%AC.pdf)
++ [Docker & Docker-Compose](https://github.com/limes22/study/blob/main/Kubernetes/Dockerfile%20%26%20Docker%20Compose%20.pdf)
 
 
 ## CICD
