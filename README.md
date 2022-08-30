@@ -30,9 +30,9 @@ https://agilemanifesto.org/iso/ko/manifesto.html
 + [힙 (Heap)](https://github.com/limes22/study/blob/main/DataStructure/heap.pdf)
 + [트리 (Tree)](https://github.com/limes22/study/blob/main/DataStructure/Tree.pdf)
 + [이진탐색트리 (Binary Search Tree)](https://github.com/limes22/study/blob/main/DataStructure/%EC%9D%B4%EC%A7%84%ED%83%90%EC%83%89%ED%8A%B8%EB%A6%AC.pdf)
-+ 해쉬 (Hash)
-+ 트라이 (Trie)
-+ B-Tree & B+Tree
++ [해쉬 (Hash)](https://github.com/limes22/study/blob/main/DataStructure/%ED%95%B4%EC%8B%9C(Hash).pdf)
++ [트라이 (Trie)](https://github.com/limes22/study/blob/main/DataStructure/%ED%8A%B8%EB%9D%BC%EC%9D%B4(Trie).pdf)
++ [B-Tree & B+Tree](https://github.com/limes22/study/blob/main/DataStructure/B%20Tree%20%26%20B%20%2B%20Tree.pdf)
 
 
 ## Network
