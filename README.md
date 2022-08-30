@@ -1,5 +1,7 @@
 # Study Document
-<img src="https://github.com/limes22/study/blob/main/SoftwareEngineering/agilemanifest.jpg" width="500" height="400">
+<p align="center"><img src="https://github.com/limes22/study/blob/main/SoftwareEngineering/agilemanifest.jpg" width="500" height="400">
+
+
 https://agilemanifesto.org/iso/ko/manifesto.html
 
 ## kubernetes
