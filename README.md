@@ -1,5 +1,5 @@
 # Study Document
-<img src="https://github.com/limes22/study/blob/main/SE/agilemanifest.jpg" width="500" height="400">
+<img src="https://github.com/limes22/study/blob/main/SoftwareEngineering/agilemanifest.jpg" width="500" height="400">
 https://agilemanifesto.org/iso/ko/manifesto.html
 
 ## kubernetes
@@ -57,5 +57,5 @@ https://agilemanifesto.org/iso/ko/manifesto.html
 
 
 ## Software Engineering
-+ [객체 지향 프로그래밍 (Object-Oriented Programming)](https://github.com/limes22/study/blob/main/SE/%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D.pdf)
-+ [마이크로서비스 아키텍처 (MSA)](https://github.com/limes22/study/blob/main/SE/%EB%A7%88%EC%9D%B4%ED%81%AC%EB%A1%9C%EC%84%9C%EB%B9%84%EC%8A%A4%20%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98(MSA).pdf)
++ [객체 지향 프로그래밍 (Object-Oriented Programming)](https://github.com/limes22/study/blob/main/SoftwareEngineering/%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D.pdf)
++ [마이크로서비스 아키텍처 (MSA)](https://github.com/limes22/study/blob/main/SoftwareEngineering/%EB%A7%88%EC%9D%B4%ED%81%AC%EB%A1%9C%EC%84%9C%EB%B9%84%EC%8A%A4%20%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98(MSA).pdf)
