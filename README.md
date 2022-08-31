@@ -7,9 +7,16 @@
 + [Resources](https://github.com/limes22/study/blob/main/Kubernetes/Kubernetes%20%EB%A6%AC%EC%86%8C%EC%8A%A4.pdf)
 + [PV & PVC](https://github.com/limes22/study/blob/main/Kubernetes/kubernetes%20pv%2C%20pvc.pdf)
 + [Custom Controller Operator Pattern(Operater-SDK)](https://github.com/limes22/study/blob/main/Kubernetes/Custom%20Controller%20Operator%20Pattern(Operater-SDK).pdf)
-+ [Prometheus](https://github.com/limes22/study/blob/main/Kubernetes/Prometheus%20%EC%A0%95%EB%A6%AC.pdf)
 + [Docker & Docker-Compose](https://github.com/limes22/study/blob/main/Kubernetes/Dockerfile%20%26%20Docker%20Compose%20.pdf)
 
+
+## Monitoring
++ [Prometheus](https://github.com/limes22/study/blob/main/Kubernetes/Prometheus%20%EC%A0%95%EB%A6%AC.pdf)
++ [Thanos](https://github.com/limes22/study/blob/main/Kubernetes/%ED%83%80%EB%85%B8%EC%8A%A4.pdf)
+
+
+## Openshift
++ [OKD 3.11 Install](https://github.com/limes22/study/blob/main/Kubernetes/Openshift_OKD_3.11_Install.pdf)
 
 ## CICD
 + [Helm](https://github.com/limes22/study/blob/main/CICD/helm.pdf)
