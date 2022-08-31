@@ -11,12 +11,12 @@
 
 
 ## Monitoring
-+ [Prometheus](https://github.com/limes22/study/blob/main/Kubernetes/Prometheus%20%EC%A0%95%EB%A6%AC.pdf)
-+ [Thanos](https://github.com/limes22/study/blob/main/Kubernetes/%ED%83%80%EB%85%B8%EC%8A%A4.pdf)
++ [Prometheus](https://github.com/limes22/study/blob/main/Monitoring/Prometheus%20%EC%A0%95%EB%A6%AC.pdf)
++ [Thanos](https://github.com/limes22/study/blob/main/Monitoring/%ED%83%80%EB%85%B8%EC%8A%A4.pdf)
 
 
 ## Openshift
-+ [OKD 3.11 Install](https://github.com/limes22/study/blob/main/Kubernetes/Openshift_OKD_3.11_Install.pdf)
++ [OKD 3.11 Install](https://github.com/limes22/study/blob/main/Openshift/Openshift_OKD_3.11_Install.pdf)
 
 ## CICD
 + [Helm](https://github.com/limes22/study/blob/main/CICD/helm.pdf)
