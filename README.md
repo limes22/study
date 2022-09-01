@@ -9,7 +9,7 @@
 + [Custom Controller Operator Pattern(Operater-SDK)](https://github.com/limes22/study/blob/main/Kubernetes/Custom%20Controller%20Operator%20Pattern(Operater-SDK).pdf)
 + [Docker & Docker-Compose](https://github.com/limes22/study/blob/main/Kubernetes/Dockerfile%20%26%20Docker%20Compose%20.pdf)
 
-
+  
 ## Monitoring
 + [Prometheus](https://github.com/limes22/study/blob/main/Monitoring/Prometheus%20%EC%A0%95%EB%A6%AC.pdf)
 + [Thanos](https://github.com/limes22/study/blob/main/Monitoring/%ED%83%80%EB%85%B8%EC%8A%A4.pdf)
@@ -65,3 +65,5 @@
 ## Software Engineering
 + [객체 지향 프로그래밍 (Object-Oriented Programming)](https://github.com/limes22/study/blob/main/SoftwareEngineering/%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D.pdf)
 + [마이크로서비스 아키텍처 (MSA)](https://github.com/limes22/study/blob/main/SoftwareEngineering/%EB%A7%88%EC%9D%B4%ED%81%AC%EB%A1%9C%EC%84%9C%EB%B9%84%EC%8A%A4%20%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98(MSA).pdf)
+  
+  
