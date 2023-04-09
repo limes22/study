@@ -23,6 +23,7 @@
 + [Helm](https://github.com/limes22/study/blob/main/CICD/helm.pdf)
 + [Ansible](https://github.com/limes22/study/blob/main/CICD/Ansible.pdf)
 + [Argo-CD](https://github.com/limes22/study/blob/main/CICD/ArgoCD.pdf)
++ [CICD-Pipeline](https://polished-syzygy-d1d.notion.site/7-k8s-DevOps-for-MSA-a426d87a08264010a14457803507623d)
 
 
 ## React
